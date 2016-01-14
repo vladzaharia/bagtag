@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "BagTag"
+  },
+  "hostingPlanName": {
+    "value": "BagTag"
+  },
+  "siteLocation": {
+    "value": "West US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "bagtag"
+  },
+  "serverLocation": {
+    "value": "West US"
+  },
+  "administratorLogin": {
+    "value": "bagtag"
+  },
+  "administratorLoginPassword": {
+    "value": "r557%w30EL8h"
+  },
+  "databaseName": {
+    "value": "BagTag_db"
+  }
+}
